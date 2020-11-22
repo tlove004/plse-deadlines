@@ -3,7 +3,7 @@ title: PLSE Conference Deadlines # (Maintained by @zhangysh1995)
 description: Countdowns to top PL and SE conference deadlines
 author: Yushan Zhang (forked from @abhshkdz)
 domain: ""
-baseurl: "https://breismer.github.io/plse-deadlines"
+baseurl: "https://plseddl.github.io/plse-deadlines"
 
 twitter_username: 163Zhangysh1995
 twitter_hashtag: softwareresearch
