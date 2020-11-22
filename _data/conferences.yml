@@ -6,7 +6,18 @@
   id: pldi21
   link: https://conf.researchr.org/home/pldi-2021
   deadline: '2020-11-20 23:59:59'
-  timezone: 
+  timezone: Etc/GMT-12
   date: June 20-25, 2021
   place: Virtual
   sub: PL
+
+- title: ISSTA
+  hindex:
+  year: 2021
+  id: issta2021
+  link: https://conf.researchr.org/home/issta-2021
+  deadline: '2021-01-29 23:59:59'
+  timezone: Etc/GMT-12
+  date: July 12-16, 2021
+  place: Aarhus, Denmark
+  sub: SE
