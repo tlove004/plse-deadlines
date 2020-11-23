@@ -43,3 +43,25 @@
   date: August 23-27, 2021
   place: Athens, Greece
   sub: SE
+
+- title: ASE
+  hindex: 45
+  year: 2021
+  id: ase2021
+  link: https://conf.researchr.org/home/ase-2021
+  deadline: '2021-04-16 23:59:59'
+  timezone: Etc/GMT-12
+  date: November 15-19, 2021
+  place: Melbourne, Australia
+  sub: SE
+
+- title: CGO
+  hindex: N/A
+  year: 2021
+  id: cgo2021
+  link: https://conf.researchr.org/home/cgo-2021
+  deadline: '2020-09-01 23:59:59'
+  timezone: Etc/GMT-12
+  date: February 27-March 3, 2021
+  place: Virtual
+  sub: PL
